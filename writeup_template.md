@@ -222,7 +222,8 @@ top five の soft max probability は以下です。
 | .00000001				    |  Dangerous curve to the right    							|
 
 4番目の画像では 100% の確率で Priority road と正しく判定されました。単純な図形なので、縮小されて不鮮明になっても正しく判定されたのかと思われます。
-top five の soft max probability は以下です。  
+top five の soft max probability は以下です。
+  
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 | 1.00         			| Priority road   									|
@@ -232,7 +233,8 @@ top five の soft max probability は以下です。
 | about 0.0				    |  No vehicles   							|
 
 5番目の画像では 100% の確率で Yield と正しく判定されました。やはりこれも単純な図形なので、縮小されて不鮮明になっても正しく判定されたのかと思われます。
-top five の soft max probability は以下です。  
+top five の soft max probability は以下です。 
+  
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 | 1.00         			|  Yield   									|
